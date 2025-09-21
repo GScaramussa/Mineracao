@@ -1,0 +1,100 @@
+match_id,status_golpe1,regra_golpe1,status_golpe2,regra_golpe2,conclusao
+1,ok,¬R1: t1=1.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=5.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+2,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=48.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+3,falhou,R1: t1=38.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=44.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+4,falhou,R1: t1=24.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=34.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+5,ok,¬R1: t1=11.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=23.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+6,falhou,R1: t1=48.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=50.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+7,ok,¬R1: t1=2.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=40.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+8,ok,¬R1: t1=7.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=45.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+9,falhou,R1: t1=16.00s > 15s ⇒ 1º golpe não foi usado com sucesso,ok,¬R2: t2=22.00s < 25s ⇒ 2º dentro do limite,O 1º golpe não foi usado com sucesso
+10,falhou,R1: t1=33.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=44.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+11,ok,¬R1: t1=8.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+12,falhou,R1: t1=32.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=37.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+13,falhou,R1: t1=23.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=43.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+14,ok,¬R1: t1=15.00s ≤ 15s ⇒ 1º dentro do limite,falhou,R2: t2=36.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+15,falhou,R1: t1=38.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=45.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+16,falhou,R1: t1=23.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=38.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+17,ok,¬R1: t1=1.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=8.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+18,ok,¬R1: t1=12.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=14.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+19,ok,¬R1: t1=8.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=9.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+20,ok,¬R1: t1=1.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=2.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+21,falhou,R1: t1=20.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=29.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+22,falhou,R1: t1=36.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=45.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+23,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=20.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+24,ok,¬R1: t1=7.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=8.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+25,falhou,R1: t1=39.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=43.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+26,ok,¬R1: t1=6.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+27,ok,¬R1: t1=8.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=48.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+28,falhou,R1: t1=37.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+29,falhou,R1: t1=33.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+30,ok,¬R1: t1=1.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=28.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+31,ok,¬R1: t1=11.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=26.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+32,falhou,R1: t1=33.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+33,falhou,R1: t1=25.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=41.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+34,ok,¬R1: t1=5.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=12.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+35,falhou,R1: t1=42.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=47.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+36,ok,¬R1: t1=11.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=37.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+37,ok,¬R1: t1=15.00s ≤ 15s ⇒ 1º dentro do limite,falhou,R2: t2=42.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+38,falhou,R1: t1=25.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=36.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+39,falhou,R1: t1=37.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=40.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+40,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=11.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+41,falhou,R1: t1=24.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=32.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+42,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=31.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+43,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+44,falhou,R1: t1=32.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=39.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+45,falhou,R1: t1=33.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=37.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+46,ok,¬R1: t1=15.00s ≤ 15s ⇒ 1º dentro do limite,ok,¬R2: t2=23.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+47,ok,¬R1: t1=6.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+48,falhou,R1: t1=23.00s > 15s ⇒ 1º golpe não foi usado com sucesso,ok,¬R2: t2=25.00s ≤ 25s ⇒ 2º dentro do limite,O 1º golpe não foi usado com sucesso
+49,falhou,R1: t1=29.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=41.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+50,falhou,R1: t1=34.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=41.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+51,ok,¬R1: t1=7.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=11.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+52,falhou,R1: t1=21.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=38.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+53,falhou,R1: t1=34.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+54,ok,¬R1: t1=2.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=8.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+55,ok,¬R1: t1=14.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=32.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+56,ok,¬R1: t1=11.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=42.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+57,falhou,R1: t1=19.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=49.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+58,falhou,R1: t1=26.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=27.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+59,falhou,R1: t1=20.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=27.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+60,ok,¬R1: t1=9.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=31.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+61,falhou,R1: t1=18.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=44.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+62,falhou,R1: t1=20.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=36.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+63,ok,¬R1: t1=12.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=18.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+64,falhou,R1: t1=18.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=38.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+65,falhou,R1: t1=19.00s > 15s ⇒ 1º golpe não foi usado com sucesso,ok,¬R2: t2=22.00s < 25s ⇒ 2º dentro do limite,O 1º golpe não foi usado com sucesso
+66,falhou,R1: t1=43.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=48.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+67,falhou,R1: t1=23.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=27.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+68,ok,¬R1: t1=7.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=34.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+69,falhou,R1: t1=40.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+70,ok,¬R1: t1=8.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=30.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+71,ok,¬R1: t1=2.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=11.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+72,ok,¬R1: t1=14.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=18.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+73,falhou,R1: t1=28.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=46.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+74,ok,¬R1: t1=15.00s ≤ 15s ⇒ 1º dentro do limite,ok,¬R2: t2=23.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+75,falhou,R1: t1=29.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=37.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+76,falhou,R1: t1=26.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=42.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+77,falhou,R1: t1=16.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=39.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+78,falhou,R1: t1=25.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=43.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+79,falhou,R1: t1=20.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+80,falhou,R1: t1=24.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=50.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+81,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=22.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+82,falhou,R1: t1=21.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=37.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+83,falhou,R1: t1=26.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=35.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+84,falhou,R1: t1=36.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=47.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+85,ok,¬R1: t1=13.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=29.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+86,falhou,R1: t1=20.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=29.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+87,ok,¬R1: t1=5.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=13.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+88,falhou,R1: t1=24.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=38.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+89,falhou,R1: t1=27.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=32.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+90,ok,¬R1: t1=10.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=44.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+91,falhou,R1: t1=25.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=30.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+92,ok,¬R1: t1=9.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=27.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+93,ok,¬R1: t1=12.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=23.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+94,ok,¬R1: t1=7.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=29.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+95,ok,¬R1: t1=9.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=47.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+96,falhou,R1: t1=39.00s > 15s ⇒ 1º golpe não foi usado com sucesso,falhou,R2: t2=41.00s > 25s ⇒ 2º golpe não foi usado com sucesso,Ambos não foram usados com sucesso
+97,ok,¬R1: t1=6.00s < 15s ⇒ 1º dentro do limite,falhou,R2: t2=32.00s > 25s ⇒ 2º golpe não foi usado com sucesso,O 2º golpe não foi usado com sucesso
+98,ok,¬R1: t1=2.00s < 15s ⇒ 1º dentro do limite,ok,¬R2: t2=16.00s < 25s ⇒ 2º dentro do limite,Ambos dentro dos limites (sem indício de falha)
+99,falhou,R1: t1=21.00s > 15s ⇒ 1º golpe não foi usado com sucesso,ok,¬R2: t2=23.00s < 25s ⇒ 2º dentro do limite,O 1º golpe não foi usado com sucesso
