@@ -1,0 +1,151 @@
+﻿Partida,Jogadore(a)s,Resultado,Jogadore(a)s.1
+1,"Romário, Roberto, Alonso",PERDEU,Romário
+2,"Alonso, Roberto, Ágata",PERDEU,Roberto
+3,"Ágata, Ronaldo, Marta",GANHOU,Ágata
+4,"Ágata, Marta, Bárbara",GANHOU,Marta
+5,"Bárbara, Roberto, Romário",PERDEU,Bárbara
+6,"Shelda, Ronaldo, Marta",GANHOU,Shelda
+7,"Roberto, Ágata, Marta",GANHOU,Ronaldo
+8,"Romário, Ágata, Roberto",GANHOU,Alonso
+9,"Roberto, Marta, Bárbara",PERDEU,Nan
+10,"Roberto, Bárbara, Marta",GANHOU,Nan
+11,"Bárbara, Roberto, Romário",GANHOU,Nan
+12,"Roberto, Ronaldo, Marta",GANHOU,Nan
+13,"Romário, Marta, Ronaldo",PERDEU,Nan
+14,"Bárbara, Roberto, Marta",GANHOU,Nan
+15,"Ágata, Bárbara, Ronaldo",GANHOU,Nan
+16,"Bárbara, Roberto, Marta",GANHOU,Nan
+17,"Romário, Bárbara, Ronaldo",PERDEU,Nan
+18,"Bárbara, Roberto, Marta",PERDEU,Nan
+19,"Ágata, Shelda, Romário",PERDEU,Nan
+20,"Ágata, Marta, Roberto",PERDEU,Nan
+21,"Shelda, Romário, Roberto",GANHOU,Nan
+22,"Ágata, Ronaldo, Bárbara",GANHOU,Nan
+23,"Ágata, Marta, Ronaldo",PERDEU,Nan
+24,"Marta, Bárbara, Alonso",GANHOU,Nan
+25,"Ágata, Marta, Roberto",GANHOU,Nan
+26,"Ágata, Ronaldo, Romário",PERDEU,Nan
+27,"Romário, Bárbara, Ronaldo",PERDEU,Nan
+28,"Ágata, Marta",GANHOU,Nan
+29,"Shelda, Ronaldo, Romário",PERDEU,Nan
+30,"Romário, Bárbara, Marta",GANHOU,Nan
+31,"Ágata, Ronaldo, Bárbara",PERDEU,Nan
+32,"Ágata, Shelda, Roberto",GANHOU,Nan
+33,"Shelda, Ronaldo, Romário",PERDEU,Nan
+34,"Marta, Bárbara, Ronaldo",GANHOU,Nan
+35,"Ágata, Marta, Ronaldo",PERDEU,Nan
+36,"Shelda, Romário, Roberto",PERDEU,Nan
+37,"Ágata, Ronaldo, Ana",GANHOU,Nan
+38,"Ágata, Marta, Romário",PERDEU,Nan
+39,"Marta, Bárbara",GANHOU,Nan
+40,"Ágata, Marta",GANHOU,Nan
+41,"Marta, Bárbara, Alonso",PERDEU,Nan
+42,"Ágata, Marta, Roberto",GANHOU,Nan
+43,"Ágata, Ronaldo, Romário",GANHOU,Nan
+44,"Romário, Bárbara, Ronaldo",PERDEU,Nan
+45,"Ágata, Marta",GANHOU,Nan
+46,"Shelda, Ronaldo, Romário",PERDEU,Nan
+47,"Romário, Bárbara, Marta",PERDEU,Nan
+48,"Ágata, Ronaldo, Bárbara",PERDEU,Nan
+49,"Ágata, Shelda, Roberto",PERDEU,Nan
+50,"Shelda, Ronaldo, Romário",GANHOU,Nan
+51,"Marta, Bárbara, Ronaldo",PERDEU,Nan
+52,"Ágata, Marta, Ronaldo",GANHOU,Nan
+53,"Shelda, Romário, Roberto",PERDEU,Nan
+54,"Ágata, Ronaldo, Ana",PERDEU,Nan
+55,"Ágata, Marta, Romário",GANHOU,Nan
+56,"Shelda, Ronaldo",PERDEU,Nan
+57,"Romário, Bárbara, Marta",GANHOU,Nan
+58,"Ágata, Ronaldo, Roberto",GANHOU,Nan
+59,"Ágata, Shelda",PERDEU,Nan
+60,"Shelda, Ronaldo",PERDEU,Nan
+61,"Marta, Bárbara",GANHOU,Nan
+62,"Ágata, Marta",PERDEU,Nan
+63,"Shelda, Ronaldo",GANHOU,Nan
+64,"Roberto, Ágata",PERDEU,Nan
+65,"Romário, Ágata",PERDEU,Nan
+66,"Roberto, Marta",PERDEU,Nan
+67,"Roberto, Bárbara, Alonso",PERDEU,Nan
+68,"Bárbara, Roberto",PERDEU,Nan
+69,"Roberto, Ronaldo",PERDEU,Nan
+70,"Roberto, Ágata, Marta",GANHOU,Nan
+71,"Romário, Ágata, Roberto",GANHOU,Nan
+72,"Roberto, Marta, Bárbara",GANHOU,Nan
+73,"Roberto, Bárbara, Marta",PERDEU,Nan
+74,"Bárbara, Roberto, Romário",PERDEU,Nan
+75,"Roberto, Ronaldo, Marta",GANHOU,Nan
+76,"Romário, Marta, Ronaldo",GANHOU,Nan
+77,"Bárbara, Roberto, Marta",GANHOU,Nan
+78,"Ágata, Bárbara, Ronaldo",PERDEU,Nan
+79,"Bárbara, Roberto, Marta",PERDEU,Nan
+80,"Ágata, Marta",GANHOU,Nan
+81,"Shelda, Ronaldo",GANHOU,Nan
+82,"Roberto, Ágata",PERDEU,Nan
+83,"Romário, Ágata",GANHOU,Nan
+84,"Roberto, Marta",GANHOU,Nan
+85,"Roberto, Bárbara",PERDEU,Nan
+86,"Bárbara, Roberto",PERDEU,Nan
+87,"Roberto, Ronaldo",GANHOU,Nan
+88,"Ágata, Marta",GANHOU,Nan
+89,"Bárbara, Roberto",GANHOU,Nan
+90,"Shelda, Ronaldo",PERDEU,Nan
+91,"Roberto, Ágata, Alonso",PERDEU,Nan
+92,"Romário, Ágata",PERDEU,Nan
+93,"Roberto, Marta",PERDEU,Nan
+94,"Roberto, Bárbara",PERDEU,Nan
+95,"Bárbara, Roberto",PERDEU,Nan
+96,"Roberto, Ronaldo",GANHOU,Nan
+97,"Romário, Marta",GANHOU,Nan
+98,"Bárbara, Roberto",GANHOU,Nan
+99,"Ágata, Bárbara",PERDEU,Nan
+100,"Bárbara, Roberto",GANHOU,Nan
+101,"Romário, Bárbara",GANHOU,Nan
+102,"Bárbara, Roberto",PERDEU,Nan
+103,"Ágata, Shelda",PERDEU,Nan
+104,"Ágata, Marta",GANHOU,Nan
+105,"Shelda, Romário",GANHOU,Nan
+106,"Ágata, Ronaldo",PERDEU,Nan
+107,"Ágata, Marta",GANHOU,Nan
+108,"Marta, Bárbara",GANHOU,Nan
+109,"Ágata, Marta",GANHOU,Nan
+110,"Bárbara, Roberto",PERDEU,Nan
+111,"Shelda, Ronaldo",GANHOU,Nan
+112,"Roberto, Ágata, Alonso",GANHOU,Nan
+113,"Romário, Ágata",GANHOU,Nan
+114,"Roberto, Marta",PERDEU,Nan
+115,"Roberto, Bárbara",PERDEU,Nan
+116,"Bárbara, Roberto, Marta",GANHOU,Nan
+117,"Roberto, Ronaldo, Romário",PERDEU,Nan
+118,"Romário, Marta, Ronaldo",GANHOU,Nan
+119,"Bárbara, Roberto, Shelda",PERDEU,Nan
+120,"Ágata, Bárbara, Shelda",PERDEU,Nan
+121,"Bárbara, Roberto, Shelda",GANHOU,Nan
+122,"Romário, Bárbara, Marta",GANHOU,Nan
+123,"Bárbara, Roberto, Shelda",GANHOU,Nan
+124,"Ágata, Shelda, Ana",GANHOU,Nan
+125,"Ágata, Marta",PERDEU,Nan
+126,"Shelda, Romário",PERDEU,Nan
+127,"Ágata, Ronaldo",GANHOU,Nan
+128,"Ágata, Marta",PERDEU,Nan
+129,"Marta, Bárbara",PERDEU,Nan
+130,"Ágata, Marta",GANHOU,Nan
+131,"Bárbara, Roberto",GANHOU,Nan
+132,"Shelda, Ronaldo, Alonso",PERDEU,Nan
+133,"Roberto, Ágata",PERDEU,Nan
+134,"Romário, Ágata",GANHOU,Nan
+135,"Roberto, Marta",PERDEU,Nan
+136,"Roberto, Bárbara",PERDEU,Nan
+137,"Bárbara, Roberto",GANHOU,Nan
+138,"Roberto, Ronaldo",GANHOU,Nan
+139,"Romário, Marta",GANHOU,Nan
+140,"Bárbara, Roberto, Shelda",GANHOU,Nan
+141,"Romário, Bárbara, Marta",GANHOU,Nan
+142,"Bárbara, Roberto, Shelda",PERDEU,Nan
+143,"Ágata, Shelda, Ana",PERDEU,Nan
+144,"Ágata, Marta, Alonso",GANHOU,Nan
+145,"Shelda, Romário",PERDEU,Nan
+146,"Ágata, Marta",GANHOU,Nan
+147,"Shelda, Romário",PERDEU,Nan
+148,"Ágata, Ronaldo, Alonso",GANHOU,Nan
+149,"Ágata, Marta, Alonso",PERDEU,Nan
+150,"Marta, Bárbara",GANHOU,Nan
